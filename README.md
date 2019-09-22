@@ -1,15 +1,15 @@
-# AREP-ProyectoPrimerTercio
+# AREP-Laboratorio4
 
 ## Autores 
 * Daniel Felipe Rodriguez Villalba
 
 Clonar el proyecto:
 
-    git clone https://github.com/danielrodriguezvillalba/AREP-ProyectoPrimerTercio
+    git clone https://github.com/danielrodriguezvillalba/AREP-Laboratorio4
 
 cd para navegar por los archivos hacia el proyecto AREP-ProyectoPrimerTercio
 
-    cd AREP-ProyectoPrimerTercio
+    cd AREP-Laboratorio4
 
 Finalmente para compilarlo y ejecutarlo
 
